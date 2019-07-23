@@ -1,0 +1,23 @@
+#top-head{
+    margin-top: 10px;
+}
+#top-aside{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+footer {
+    background: #0093d4;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+    color: #fff !important;
+    font-size: 12px;
+    border-top: 0px solid #204eb4;
+}
+
+#footer-aside{
+    display: flex;
+    align-self: flex-end;
+}
